@@ -1,5 +1,7 @@
 # VotingApp
 
+PS: This project was developed within 5 days because the school requested this app a little late.
+
 Admin Login Page
 ![alt tag](readme_img/admin_login.PNG "Admin Login Page")
 
